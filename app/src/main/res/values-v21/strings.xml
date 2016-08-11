@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ad">ad</string>
+    <string name="audiovisuales">audiovisuales</string>
+    <string name="escenicas">escenicas</string>
+    <string name="musica">musica</string>
+</resources>
