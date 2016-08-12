@@ -8,8 +8,9 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:paddingTop="80dp">
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:paddingBottom="40dp">
         <ViewFlipper
             android:id="@+id/viewFlipper"
             android:layout_width="match_parent"
@@ -17,7 +18,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/audiovisuales"
+                android:src="@drawable/screen"
                 android:scaleType="fitXY"
                 android:contentDescription="@string/audiovisuales" />
             <ImageView
